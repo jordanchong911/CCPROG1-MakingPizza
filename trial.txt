@@ -1,0 +1,20 @@
+tagalog: mahal
+english: expensive
+korean: biste
+chinese: gui
+
+tagalog: mahal
+english: love
+korean: sarang
+chinese: ai
+cebuano: mahal
+
+tagalog: mura
+english: curse
+chinese: ma
+korean: yok
+
+tagalog: mura
+english: cheap
+chinese: siok
+korean: mini
